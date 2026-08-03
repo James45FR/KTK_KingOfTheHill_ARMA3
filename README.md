@@ -4,7 +4,7 @@ Mission multijoueur King of the Hill sur Altis pour 1 à 150 joueurs.
 BLUFOR, OPFOR et Indépendants s'affrontent pour contrôler la zone centrale,
 gagner de l'argent, progresser en niveau et acheter de l'équipement.
 
-![Écran de chargement KTK](Arma-3-Serveur/MPmissions/KTK_KingOfTheHill.Altis/images/loading_source.png)
+![Écran de chargement KTK](loading_source.png)
 
 Copyright (c) [2026] James45-FR / J45 ADDONS
 Tous droits réservés.
